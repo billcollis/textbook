@@ -7,8 +7,8 @@ It goes into building, interfacing and programming Atmel AVR microcontrollers.
 The programmng language used is BASIC and the tool used is the AVR BASIC cross-compiler from www.mcselec.com
 
 Here you will find course notes for 
-  1 - a first year course in EE, I teach part of this course.
-  2 - a 6 week block in a second year course on embedded systems 
+  1 - ELECTENG101 - a first year course in EE, I teach half of this course.
+  2-  COMPSYS201 - a second year cours eon computer systems - I teach the second part of the course - a 6 week block on embedded systems 
 
 Enjoy 
 please feel free to drop me a line (or a beer) if you like these.
