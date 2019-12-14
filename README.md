@@ -1,4 +1,4 @@
-Here you will find some documents:
+Here you will find some documents of mine:
 
 1-  An Introduction to Practical Electronics, Microcontrollers and Software Design
 Is the book I wrote for teaching secondary school students at Mt Roskill Grammar School in Auckland, New Zealand
