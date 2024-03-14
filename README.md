@@ -15,4 +15,4 @@ Here you will find some documents of mine:
 5 - PhD Thesis
 
 Enjoy 
-please feel free to drop me a line (or a beer) if you find these interesting
+please feel free to drop me a line if you find these interesting
